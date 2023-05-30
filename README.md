@@ -2,5 +2,5 @@
 - Created using Python with Turtle module
 - Controls: Space to move
 <picture>
-  <img src="example.png">
+  <img src="example2.png">
 </picture>
