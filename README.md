@@ -1,5 +1,6 @@
 - Retro Crossy Road inspired game
 - Created using Python with Turtle module
+- Controls: Space to move
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
+  <img src="example.png">
 </picture>
